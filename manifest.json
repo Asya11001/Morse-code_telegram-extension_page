@@ -1,0 +1,13 @@
+
+{
+  "manifest_version": 3,
+  "name": "",
+  "version": "0.0.2",
+  "description": "",
+  "author": "",
+  "action": {
+  },
+  "background": {
+    "service_worker": "background-wrapper.js"
+  }
+}
